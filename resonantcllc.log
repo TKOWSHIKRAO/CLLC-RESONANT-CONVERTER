@@ -1,6 +1,6 @@
 LTspice 24.0.12 for Windows
 Circuit: * C:\Users\tkowshikrao\Downloads\resonantcllc.asc
-Start Time: Wed Nov  5 15:58:17 2025
+Start Time: Wed Jan 21 22:45:45 2026
 solver = Normal
 Maximum thread count: 16
 tnom = 27
@@ -22,6 +22,6 @@ Changing Tseed to 1e-11
 Changing Tseed to 1e-06
 Changing Tseed to 1e-12
 Changing Tseed to 1e-05
-Heightened Def Con from 0.0819569 to 0.0819569
-Total elapsed time: 28.539 seconds.
+Heightened Def Con from 0.166 to 0.166
+Total elapsed time: 58.330 seconds.
 
