@@ -48,7 +48,7 @@ Gate Pulses given to various MOSFET are shown below with waveforms.
 ## 🧠 Control Considerations
 
 - **Constant Voltage (CV) & Constant Current (CC) modes**: Used for battery charging profiles.  
-- **PLL synchronization**: Needed when interfacing with grid.  
+- **PLL synchronization**: Needed when interfacing with grid. Open loop considered in this model without use of pll. 
 - **Digital control (DSP/FPGA)**: Implements adaptive frequency control to maintain resonance.  
 - **Challenges:** Gain curve flattening at high frequency, parasitic capacitances affecting regulation.
 
